@@ -1,0 +1,9 @@
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\bin\Debug\KeypadFunction.exe.config
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\bin\Debug\KeypadFunction.exe
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\bin\Debug\KeypadFunction.pdb
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\obj\Debug\KeypadFunction.csprojResolveAssemblyReference.cache
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\obj\Debug\KeypadFunction.Form1.resources
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\obj\Debug\KeypadFunction.Properties.Resources.resources
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\obj\Debug\KeypadFunction.csproj.GenerateResource.Cache
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\obj\Debug\KeypadFunction.exe
+c:\users\app\documents\visual studio 2012\Projects\KeypadFunction\KeypadFunction\obj\Debug\KeypadFunction.pdb
