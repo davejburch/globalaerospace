@@ -1,0 +1,10 @@
+
+
+
+
+if (press > 1) { additionalMS += ((press-1)*500); }             //same button used, pause between, but not last
+
+I did think about this part and originally had additionalMS add 500 the extra time, without removing one.
+
+
+if (press > 1) { additionalMS += 500; }                       //if we were including last multi keypress 500 -depends on actual keypad operation                            
