@@ -1,0 +1,11 @@
+What is the minimum time to enter the string ‘global aerospace’ and what key sequence would be required?
+
+Time:		12400 ms
+Sequence:	4x1,5x3,6x3,2x2,2x1,5x3,0x1,2x1,3x2,7x3,6x3,7x4,7x1,2x1,2x3,3x2
+
+How would you design the application to allow the characters assigned to each key to be easily reconfigured?
+
+A comma seperated list (or file structure) could be used as a key, perhaps for easy user tweaking.
+Each keys assigned characters really just depend on where the characters are within the array.
+
+
